@@ -20,7 +20,7 @@
     "react-native-axios": "^0.17.1",
     "react-native-button": "^2.3.0",
     "react-native-chip-view": "0.0.7",
-    "react-native-fast-image": "^4.0.8",
+    "react-native-fast-image": "^8.3.0",
     "react-native-image-overlay": "^0.1.2",
     "react-native-material-ui": "^1.30.0",
     "react-native-spinkit": "^1.1.1",
