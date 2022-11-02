@@ -12,7 +12,7 @@
     "numeral": "^2.0.6",
     "react": "16.3.1",
     "react-moment": "^0.7.0",
-    "react-native": "0.55.3",
+    "react-native": "0.70.4",
     "react-native-admob": "^2.0.0-beta.5",
     "react-native-android-fullscreen-webview-video": "^1.0.2",
     "react-native-android-keyboard-adjust": "^1.1.1",
