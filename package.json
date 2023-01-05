@@ -12,7 +12,7 @@
     "numeral": "^2.0.6",
     "react": "16.3.1",
     "react-moment": "^0.7.0",
-    "react-native": "0.55.3",
+    "react-native": "0.70.6",
     "react-native-admob": "^2.0.0-beta.5",
     "react-native-android-fullscreen-webview-video": "^1.0.2",
     "react-native-android-keyboard-adjust": "^1.1.1",
@@ -36,7 +36,7 @@
   "devDependencies": {
     "babel-jest": "22.4.3",
     "babel-preset-react-native": "4.0.0",
-    "jest": "22.4.3",
+    "jest": "29.3.1",
     "react-test-renderer": "16.3.1",
     "reactotron-react-native": "^1.14.0"
   },
